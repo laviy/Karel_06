@@ -2,8 +2,8 @@
 *
 * Description of the program goes here  // provide a brief description
 *
-* @author <Your Name here>  // replace <...> with your name
-* @version <date/of/completion> // replace <...> with the date
+* @author <Yoni Lavi>  // replace <...> with your name
+* @version <13/11/14> // replace <...> with the date
 */
 
 import edu.fcps.karel2.Display;
@@ -73,3 +73,4 @@ public class Lab06 {
           }
      }
 }
+
